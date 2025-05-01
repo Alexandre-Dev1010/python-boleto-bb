@@ -1,0 +1,6 @@
+include LICENSE
+include README.rst
+
+recursive-include pyboleto/media *.jpg *.png
+recursive-include pyboleto/templates *.html
+recursive-include tests/xml *.xml
